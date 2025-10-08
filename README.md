@@ -8,7 +8,7 @@
 ![SQL](https://img.shields.io/badge/Database-SQL-lightgrey)
 
 ## 🧑‍🎓 About me
-- 🎧 I enjoy listening to music while working.  
+- 🎧 I enjoy listening to music while coding.  
 - 🎯 I love working on full-stack projects (i'm noob).  
 - 📖 I'm learning more about API and web deployment.
 
