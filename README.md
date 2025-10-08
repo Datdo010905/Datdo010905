@@ -13,5 +13,5 @@
 - 📖 I'm learning more about API and web deployment.
 
 ## 🚀 Miscellaneous :))
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&lines=Welcome+to+my+GitHub!;I'm+a+Web+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&lines=Welcome+to+my+GitHub!;I'm+a+Junior+Web+Developer)
 ![Dat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Datdo010905&show_icons=true&theme=tokyonight)
