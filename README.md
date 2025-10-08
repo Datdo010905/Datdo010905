@@ -13,6 +13,5 @@
 - 🕹 I'm learning more about API and web deployment.
 
 ## 🔥
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Datdo010905)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&lines=Welcome+to+my+GitHub!;I'm+a+Web+Developer)
 ![Dat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Datdo010905&show_icons=true&theme=tokyonight)
