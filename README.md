@@ -7,7 +7,7 @@
 ![CSharp](https://img.shields.io/badge/Code-C%23-green)
 ![SQL](https://img.shields.io/badge/Database-SQL-lightgrey)
 
-## 🎮
+## 🎮About me
 - 🎧 I enjoy listening to music while working.  
 - 💪 I love working on full-stack projects (i'm noob).  
 - 🕹 I'm learning more about API and web deployment.
